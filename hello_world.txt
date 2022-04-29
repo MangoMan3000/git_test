@@ -1,1 +1,2 @@
 I am making my first change to this file.
+I can now use git commit instead of git commit -m and write my message in a new window
